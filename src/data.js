@@ -1,0 +1,2 @@
+export const business = {"phone":"079 352 1556","location":"Orlando East, Soweto","palette":["#252843","#cba88e","#f5f2ec"],"sub":"A refined retail concept with room to introduce the collection and help customers connect.","archetype":"Boutique editorial","title":"A little something with character.","industry":"Retail","photo":"https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1800&q=85","email":"","name":"ClassyBuz"};
+
